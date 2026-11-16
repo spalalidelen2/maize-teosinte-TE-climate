@@ -1,0 +1,6 @@
+SNP_data	RDA_F	RDA_p_median	Replicates_p_below_0.05	Per_locus_FDR_0.05_SNPs_median
+Original (undegraded)	1.90	0.002	NA	158
+Degraded: 10-fold sampling only	1.73	0.001	20/20	0
+Degraded: 0.20 floor only	1.81	0.001	20/20	10
+Degraded: 10-fold plus 0.20 floor (full TE-like)	1.71	0.001	20/20	0
+Reference: TE fully observed (929)	0.96	0.40	NA	0

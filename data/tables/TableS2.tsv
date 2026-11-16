@@ -1,0 +1,4 @@
+Conditioning	SNP_genome_wide_F	SNP_genome_wide_p	SNP_chr9_120_150Mb_F	SNP_chr9_120_150Mb_p	TE_929_F	TE_929_p	SNP_count_matched_p	lambda_GC_SNP
+Maize ancestry	1.90	0.002	10.20	0.0005	0.96	0.41	0.002	1.54
+Ancestry + background structure (bgPC1 + bgPC2)	1.05	0.10	1.92	0.008	0.92	0.26	0.10	1.06
+Ancestry + geography (latitude + longitude)	1.65	0.002	8.29	0.0005	0.96	0.21	0.003	NA

@@ -1,0 +1,36 @@
+# Conda environment for the upstream processing (read retrieval, QC,
+# alignment, TE-insertion calling) and the R analyses (LEA).
+name: maize_te
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  # data retrieval
+  - sra-tools=3.*          # prefetch / fasterq-dump
+  - entrez-direct          # NCBI metadata queries (esearch / efetch)
+  - aria2
+  - wget
+  # read QC
+  - fastqc
+  - fastp
+  - multiqc
+  # alignment and BAM handling
+  - bwa
+  - samtools=1.*
+  - bcftools=1.*
+  - sambamba
+  # R and analysis packages
+  - r-base=4.3.*
+  - r-data.table
+  - r-tidyverse
+  - r-vegan
+  - r-ade4
+  - bioconductor-lea       # LFMM2
+  - bioconductor-qvalue
+  - r-remotes
+  # utilities
+  - bedtools
+  - tabix
+  - csvtk
+  - openjdk                # PoPoolationTE2 (popte2.jar)

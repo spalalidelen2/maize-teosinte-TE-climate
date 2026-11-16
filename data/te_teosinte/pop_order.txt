@@ -1,0 +1,17 @@
+     1	pool/Amatlan.bam
+     2	pool/Amecameca.bam
+     3	pool/Cocotilan.bam
+     4	pool/El_Porvenir.bam
+     5	pool/Ixtlan.bam
+     6	pool/Jicaltepec.bam
+     7	pool/Malinalco.bam
+     8	pool/Nabogame.bam
+     9	pool/Opopeo.bam
+    10	pool/Penjamillo.bam
+    11	pool/Puerta_Encantada.bam
+    12	pool/Puruandiro.bam
+    13	pool/San_Pedro.bam
+    14	pool/Santa_Clara.bam
+    15	pool/Tenango_del_Aire.bam
+    16	pool/Tlapala.bam
+    17	pool/Xochimilco.bam

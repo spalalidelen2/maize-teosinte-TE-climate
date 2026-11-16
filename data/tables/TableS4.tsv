@@ -1,0 +1,5 @@
+SNP_data	RDA_F	RDA_p_median	Replicates_p_below_0.05
+Original (undegraded)	2.55	0.0005	NA
+Degraded: 8-fold sampling only	2.10	0.001	20/20
+Degraded: 8-fold plus 0.20 floor (full TE-like)	2.03	0.001	20/20
+Reference: maize TE fully observed (1,265), unconditioned	1.19	0.068	NA

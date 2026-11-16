@@ -1,0 +1,14 @@
+     1	maize/pool/Amatlan.bam
+     2	maize/pool/Cocotilan.bam
+     3	maize/pool/El_Porvenir.bam
+     4	maize/pool/Ixtlan.bam
+     5	maize/pool/Jicaltepec.bam
+     6	maize/pool/Nabogame.bam
+     7	maize/pool/Opopeo.bam
+     8	maize/pool/Penjamillo.bam
+     9	maize/pool/Puruandiro.bam
+    10	maize/pool/San_Pedro.bam
+    11	maize/pool/Santa_Clara.bam
+    12	maize/pool/Tenango_del_Aire.bam
+    13	maize/pool/Tlapala.bam
+    14	maize/pool/Xochimilco.bam

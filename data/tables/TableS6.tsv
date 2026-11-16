@@ -1,0 +1,4 @@
+Conditioning	SNP_genome_wide_F	SNP_genome_wide_p	SNP_chr9_120_150Mb_F	SNP_chr9_120_150Mb_p	TE_1265_F	TE_1265_p	SNP_count_matched_p
+Unconditioned	2.55	0.0005	2.31	0.001	1.19	0.068	0.001
+Mexicana introgression	0.91	0.53	0.83	0.71	1.03	0.19	0.57
+Introgression + background structure (bgPC1 + bgPC2)	0.95	0.08	0.88	0.21	1.06	0.027	0.13
